@@ -1,4 +1,4 @@
-# StackGuard Leakage Detection System (Go + REST)
+#  Leakage Detection System (Go + REST)
 
 A production-style microservice that scans GitHub public code for leaked tokens from your `inventory.json`, enriches results with user geolocation (GitHub profile), and sends alerts via Slack and Email.
 
