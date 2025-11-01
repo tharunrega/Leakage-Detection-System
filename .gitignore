@@ -1,0 +1,3 @@
+# ignore local env and inventory secrets
+.env
+inventory.json
